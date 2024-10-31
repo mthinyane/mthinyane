@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mthinyane
-- 👀 I’m interested in everything tech: civic tech, tech and society, tech for development, knowledge representation, semantic web, cybersecurity, data analysis, NLP, ... Data analysis with R and Python ... I'm a fullstack developer with Django and Yii backends and Flutter and Java for Android development
-- 🌱 My most recent projects were on **Django** and **Flutter**
+- 👀 I’m interested in everything tech: civic tech, tech and society, tech for development, knowledge representation, semantic web, cybersecurity, data analysis, NLP, ... Data analysis with R and Python ... Fullstack developer with Django, Flask and Yii backends and Flutter for Mobile development
+- 🌱 My most recent projects were on **Django**, **Flutter**, **Flask**... been messing around recently with d3
